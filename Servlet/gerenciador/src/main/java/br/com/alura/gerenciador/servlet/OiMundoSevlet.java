@@ -11,9 +11,6 @@ import jakarta.servlet.http.HttpServletResponse;
 @WebServlet(urlPatterns = "/oi")
 public class OiMundoSevlet extends HttpServlet{
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
 

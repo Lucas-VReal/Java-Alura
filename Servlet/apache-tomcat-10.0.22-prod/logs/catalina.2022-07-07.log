@@ -1,0 +1,183 @@
+07-Jul-2022 19:10:21.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.22
+07-Jul-2022 19:10:21.041 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2022 16:53:56 UTC
+07-Jul-2022 19:10:21.042 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.22.0
+07-Jul-2022 19:10:21.042 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+07-Jul-2022 19:10:21.042 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-Jul-2022 19:10:21.042 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Jul-2022 19:10:21.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-11.0.13
+07-Jul-2022 19:10:21.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.13+10-LTS-370
+07-Jul-2022 19:10:21.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Jul-2022 19:10:21.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod
+07-Jul-2022 19:10:21.044 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod
+07-Jul-2022 19:10:21.063 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+07-Jul-2022 19:10:21.063 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+07-Jul-2022 19:10:21.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+07-Jul-2022 19:10:21.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+07-Jul-2022 19:10:21.064 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+07-Jul-2022 19:10:21.065 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\conf\logging.properties
+07-Jul-2022 19:10:21.066 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Jul-2022 19:10:21.067 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Jul-2022 19:10:21.068 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Jul-2022 19:10:21.068 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-Jul-2022 19:10:21.069 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod
+07-Jul-2022 19:10:21.071 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod
+07-Jul-2022 19:10:21.071 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\temp
+07-Jul-2022 19:10:21.081 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-11.0.13\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\Windows\System32\WindowsPowerShell\v1.0\C:\Program Files\Java\jdk-11.0.13\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\lucas\Documents\apache-maven-3.8.4\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\lucas\AppData\Local\Microsoft\WindowsApps;C:\Users\lucas\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\lucas\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\bin;;C:\Users\lucas\AppData\Roaming\npm;.]
+07-Jul-2022 19:10:21.545 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-Jul-2022 19:10:21.567 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector[HTTP/1.1-8080]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1055)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:556)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:1045)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:747)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:769)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:305)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:475)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:459)
+		at java.base/sun.nio.ch.Net.bind(Net.java:448)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:227)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:245)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:200)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1192)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1205)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:580)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:82)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1052)
+		... 13 more
+07-Jul-2022 19:10:21.570 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [831] milliseconds
+07-Jul-2022 19:10:21.661 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-Jul-2022 19:10:21.661 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.22]
+07-Jul-2022 19:10:21.693 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\gerenciador.war]
+07-Jul-2022 19:10:23.420 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-Jul-2022 19:10:23.918 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [423] milliseconds.
+07-Jul-2022 19:10:23.945 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\gerenciador.war] has finished in [2.252] ms
+07-Jul-2022 19:10:23.946 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\docs]
+07-Jul-2022 19:10:23.990 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\docs] has finished in [44] ms
+07-Jul-2022 19:10:23.991 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\examples]
+07-Jul-2022 19:10:24.560 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\examples] has finished in [569] ms
+07-Jul-2022 19:10:24.561 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\host-manager]
+07-Jul-2022 19:10:24.616 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\host-manager] has finished in [54] ms
+07-Jul-2022 19:10:24.617 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\manager]
+07-Jul-2022 19:10:24.663 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\manager] has finished in [46] ms
+07-Jul-2022 19:10:24.664 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\ROOT]
+07-Jul-2022 19:10:24.700 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\ROOT] has finished in [36] ms
+07-Jul-2022 19:10:24.708 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3133] milliseconds
+07-Jul-2022 19:10:24.716 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use: NET_Bind
+		at java.base/java.net.PlainSocketImpl.bind0(Native Method)
+		at java.base/java.net.PlainSocketImpl.socketBind(PlainSocketImpl.java:132)
+		at java.base/java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:452)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:381)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:243)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:580)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:887)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:833)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+07-Jul-2022 19:10:24.717 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+07-Jul-2022 19:10:24.718 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+07-Jul-2022 19:10:24.752 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+07-Jul-2022 19:10:24.754 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+07-Jul-2022 19:11:42.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.22
+07-Jul-2022 19:11:42.294 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2022 16:53:56 UTC
+07-Jul-2022 19:11:42.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.22.0
+07-Jul-2022 19:11:42.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+07-Jul-2022 19:11:42.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-Jul-2022 19:11:42.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Jul-2022 19:11:42.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-11.0.13
+07-Jul-2022 19:11:42.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.13+10-LTS-370
+07-Jul-2022 19:11:42.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Jul-2022 19:11:42.296 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod
+07-Jul-2022 19:11:42.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod
+07-Jul-2022 19:11:42.312 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+07-Jul-2022 19:11:42.312 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+07-Jul-2022 19:11:42.312 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+07-Jul-2022 19:11:42.313 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+07-Jul-2022 19:11:42.313 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+07-Jul-2022 19:11:42.314 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\conf\logging.properties
+07-Jul-2022 19:11:42.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Jul-2022 19:11:42.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Jul-2022 19:11:42.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Jul-2022 19:11:42.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-Jul-2022 19:11:42.321 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod
+07-Jul-2022 19:11:42.322 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod
+07-Jul-2022 19:11:42.322 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\temp
+07-Jul-2022 19:11:42.333 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-11.0.13\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\Windows\System32\WindowsPowerShell\v1.0\C:\Program Files\Java\jdk-11.0.13\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\lucas\Documents\apache-maven-3.8.4\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\lucas\AppData\Local\Microsoft\WindowsApps;C:\Users\lucas\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\lucas\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\bin;;C:\Users\lucas\AppData\Roaming\npm;.]
+07-Jul-2022 19:11:42.768 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-Jul-2022 19:11:42.809 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [812] milliseconds
+07-Jul-2022 19:11:42.908 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-Jul-2022 19:11:42.909 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.22]
+07-Jul-2022 19:11:42.942 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\gerenciador.war]
+07-Jul-2022 19:11:44.318 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-Jul-2022 19:11:44.800 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [409] milliseconds.
+07-Jul-2022 19:11:44.829 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\gerenciador.war] has finished in [1.887] ms
+07-Jul-2022 19:11:44.830 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\docs]
+07-Jul-2022 19:11:44.869 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\docs] has finished in [39] ms
+07-Jul-2022 19:11:44.869 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\examples]
+07-Jul-2022 19:11:45.319 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\examples] has finished in [450] ms
+07-Jul-2022 19:11:45.320 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\host-manager]
+07-Jul-2022 19:11:45.383 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\host-manager] has finished in [62] ms
+07-Jul-2022 19:11:45.383 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\manager]
+07-Jul-2022 19:11:45.433 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\manager] has finished in [50] ms
+07-Jul-2022 19:11:45.433 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\ROOT]
+07-Jul-2022 19:11:45.472 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\ROOT] has finished in [38] ms
+07-Jul-2022 19:11:45.478 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-Jul-2022 19:11:45.900 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3088] milliseconds
+07-Jul-2022 19:21:09.267 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.22
+07-Jul-2022 19:21:09.273 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 2 2022 16:53:56 UTC
+07-Jul-2022 19:21:09.273 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.22.0
+07-Jul-2022 19:21:09.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+07-Jul-2022 19:21:09.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-Jul-2022 19:21:09.275 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Jul-2022 19:21:09.275 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-11.0.13
+07-Jul-2022 19:21:09.275 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.13+10-LTS-370
+07-Jul-2022 19:21:09.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Jul-2022 19:21:09.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod
+07-Jul-2022 19:21:09.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod
+07-Jul-2022 19:21:09.291 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+07-Jul-2022 19:21:09.292 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+07-Jul-2022 19:21:09.292 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+07-Jul-2022 19:21:09.292 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+07-Jul-2022 19:21:09.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+07-Jul-2022 19:21:09.295 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\conf\logging.properties
+07-Jul-2022 19:21:09.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Jul-2022 19:21:09.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Jul-2022 19:21:09.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Jul-2022 19:21:09.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+07-Jul-2022 19:21:09.300 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod
+07-Jul-2022 19:21:09.301 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod
+07-Jul-2022 19:21:09.301 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\temp
+07-Jul-2022 19:21:09.313 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-11.0.13\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\Windows\System32\WindowsPowerShell\v1.0\C:\Program Files\Java\jdk-11.0.13\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\lucas\Documents\apache-maven-3.8.4\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\lucas\AppData\Local\Microsoft\WindowsApps;C:\Users\lucas\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\lucas\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\bin;;C:\Users\lucas\AppData\Roaming\npm;.]
+07-Jul-2022 19:21:09.768 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-80"]
+07-Jul-2022 19:21:09.807 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [838] milliseconds
+07-Jul-2022 19:21:09.894 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-Jul-2022 19:21:09.895 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.22]
+07-Jul-2022 19:21:09.923 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\gerenciador.war]
+07-Jul-2022 19:21:11.204 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-Jul-2022 19:21:11.670 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [391] milliseconds.
+07-Jul-2022 19:21:11.696 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\gerenciador.war] has finished in [1.773] ms
+07-Jul-2022 19:21:11.697 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\docs]
+07-Jul-2022 19:21:11.738 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\docs] has finished in [40] ms
+07-Jul-2022 19:21:11.738 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\examples]
+07-Jul-2022 19:21:12.155 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\examples] has finished in [416] ms
+07-Jul-2022 19:21:12.155 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\host-manager]
+07-Jul-2022 19:21:12.211 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\host-manager] has finished in [56] ms
+07-Jul-2022 19:21:12.212 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\manager]
+07-Jul-2022 19:21:12.257 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\manager] has finished in [44] ms
+07-Jul-2022 19:21:12.257 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\ROOT]
+07-Jul-2022 19:21:12.294 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\lucas\Desktop\Programação\Java-Alura\Servlet\apache-tomcat-10.0.22-prod\webapps\ROOT] has finished in [37] ms
+07-Jul-2022 19:21:12.301 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-80"]
+07-Jul-2022 19:21:12.731 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2922] milliseconds

@@ -2,12 +2,7 @@
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xmlns:web="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd http://xmlns.jcp.org/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="5.0">
   <display-name>gerenciador</display-name>
   <welcome-file-list>
-    <welcome-file>index.html</welcome-file>
-    <welcome-file>index.jsp</welcome-file>
-    <welcome-file>index.htm</welcome-file>
-    <welcome-file>default.html</welcome-file>
-    <welcome-file>default.jsp</welcome-file>
-    <welcome-file>default.htm</welcome-file>
+    <welcome-file>bem-vindo.html</welcome-file>
   </welcome-file-list>
   <servlet>
     <description></description>
@@ -28,5 +23,45 @@
   <servlet-mapping>
     <servlet-name>ListaEmpresasServlet</servlet-name>
     <url-pattern>/listaEmpresas</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>RemoveEmpresaServlet</display-name>
+    <servlet-name>RemoveEmpresaServlet</servlet-name>
+    <servlet-class>br.com.alura.gerenciador.servlet.RemoveEmpresaServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>RemoveEmpresaServlet</servlet-name>
+    <url-pattern>/removeEmpresa</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>MostrarEmpresaServlet</display-name>
+    <servlet-name>MostrarEmpresaServlet</servlet-name>
+    <servlet-class>br.com.alura.gerenciador.servlet.MostrarEmpresaServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>MostrarEmpresaServlet</servlet-name>
+    <url-pattern>/mostrarEmpresa</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>AlterarEmpresaServlet</display-name>
+    <servlet-name>AlterarEmpresaServlet</servlet-name>
+    <servlet-class>br.com.alura.gerenciador.servlet.AlterarEmpresaServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AlterarEmpresaServlet</servlet-name>
+    <url-pattern>/alterarEmpresa</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>UnicaEntradaServlet</display-name>
+    <servlet-name>UnicaEntradaServlet</servlet-name>
+    <servlet-class>br.com.alura.gerenciador.servlet.UnicaEntradaServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UnicaEntradaServlet</servlet-name>
+    <url-pattern>/entrada</url-pattern>
   </servlet-mapping>
 </web-app>
