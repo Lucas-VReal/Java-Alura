@@ -20,16 +20,16 @@ public class UnicaEntradaServlet extends HttpServlet {
 
 		String paramAcao = request.getParameter("acao");
 		
-		HttpSession sessao = request.getSession();
+		/*HttpSession sessao = request.getSession();
 		boolean usuarioNaoEstaLogado = (sessao.getAttribute("usuarioLogado") == null);
 		boolean ehUmaAcaoProtegida = !(paramAcao.equals("Login") || paramAcao.equals("LoginForm"));
-		
+
 		if(ehUmaAcaoProtegida && usuarioNaoEstaLogado) {
 			response.sendRedirect("entrada?acao=LoginForm");
 			return;
-		}
+		}*/
 		
-		String nomeDaClasse = "br.com.alura.gerenciador.acao." + paramAcao;
+		/*String nomeDaClasse = "br.com.alura.gerenciador.acao." + paramAcao;
 		
 		String nome;
 		try {
@@ -46,7 +46,7 @@ public class UnicaEntradaServlet extends HttpServlet {
 			rd.forward(request, response);
 		} else {
 			response.sendRedirect(tipoEEndereco[1]);
-		}
+		}*/
 		
 		
 		//paramAcao.executa(req,res)

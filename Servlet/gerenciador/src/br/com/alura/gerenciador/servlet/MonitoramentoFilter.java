@@ -9,7 +9,9 @@ import java.io.IOException;
 import javax.servlet.anotation.WebFilter;
 
 @WebFilter(urlPatterns="/entrada")
-public class MonotoramentoFilter implements Filter {
+public class MonitoramentoFilter implements Filter {
+
+    System.out.println("Monitoramento Filter");
 
     public void doFilter (ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
         long antes = System.currentTimeMillis();
