@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d87cdde-6a70-44b2-bfd9-2b9e781c55f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../cliente-webservice/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cliente-webservice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cliente-webservice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cliente-webservice/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cliente-webservice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cliente-webservice/cliente-webservice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cliente-webservice/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cliente-webservice/lib/fluent-hc-4.5.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cliente-webservice/lib/httpclient-4.5.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cliente-webservice/lib/httpcore-4.4.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cliente-webservice/src/br/com/alura/cliente/ClienteWebService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gerenciador.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/gerenciador/servlet/MonotoramentoFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/gerenciador/servlet/MonitoramentoFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/gerenciador/servlet/UnicaEntradaServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/gerenciador/servlet/UnicaEntradaServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,18 +23,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vector/Desktop/Estudo/Java-Alura/Servlet/gerenciador&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/lucas/Desktop/Programação/Java-Alura/Servlet/cliente-webservice",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Vector\Desktop\Estudo\Java-Alura\Servlet\gerenciador\src\br\com\alura\gerenciador\servlet" />
@@ -61,6 +43,19 @@
       <recent name="C:\Users\Vector\Desktop\Estudo\Java-Alura\Servlet\gerenciador\WebContent\WEB-INF\lib" />
       <recent name="C:\Users\Vector\Desktop\Estudo\Java-Alura\Servlet\gerenciador\src\br\com\alura\gerenciador\servlet" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,6 +70,8 @@
       <workItem from="1657662340570" duration="4413000" />
       <workItem from="1657669453804" duration="385000" />
       <workItem from="1657670070398" duration="108000" />
+      <workItem from="1657719933425" duration="1207000" />
+      <workItem from="1657730963674" duration="15000" />
     </task>
     <servers />
   </component>

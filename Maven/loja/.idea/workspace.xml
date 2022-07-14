@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4f10797-e67e-485d-90b9-7303bb56621d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../controle-produtos/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Servlet/cliente-webservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servlet/cliente-webservice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Servlet/cliente-webservice/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servlet/cliente-webservice/cliente-webservice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Servlet/cliente-webservice/cliente-webservice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servlet/cliente-webservice/src/br/com/alura/cliente/ClienteWebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Servlet/cliente-webservice/src/main/java/br/com/alura/cliente/ClienteWebService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Servlet/gerenciador/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Servlet/gerenciador/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2BtRJajIuE4XjWsdcuHjZqC02gn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_directory_selection": "C:/Users/lucas/Desktop/Programação/Java-Alura/Maven/loja/src/main/java",
+    "last_opened_file_path": "C:/Users/lucas/.m2/repository/com/thoughtworks/xstream/xstream/1.4.19/xstream-1.4.19.jar",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.com.alura.loja" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4f10797-e67e-485d-90b9-7303bb56621d" name="Changes" comment="" />
+      <created>1657723324099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657723324099</updated>
+      <workItem from="1657723325502" duration="2454000" />
+      <workItem from="1657730670604" duration="276000" />
+      <workItem from="1657734920501" duration="2389000" />
+      <workItem from="1657737329946" duration="188000" />
+      <workItem from="1657737538666" duration="289000" />
+      <workItem from="1657737846876" duration="247000" />
+      <workItem from="1657738201582" duration="66000" />
+      <workItem from="1657738290973" duration="2648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
