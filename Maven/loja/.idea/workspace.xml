@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4f10797-e67e-485d-90b9-7303bb56621d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../controle-produtos/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Servlet/cliente-webservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Servlet/cliente-webservice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Servlet/cliente-webservice/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Servlet/cliente-webservice/cliente-webservice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Servlet/cliente-webservice/cliente-webservice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Servlet/cliente-webservice/src/br/com/alura/cliente/ClienteWebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Servlet/cliente-webservice/src/main/java/br/com/alura/cliente/ClienteWebService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Servlet/gerenciador/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Servlet/gerenciador/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +52,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "last_directory_selection": "C:/Users/lucas/Desktop/Programação/Java-Alura/Maven/loja/src/main/java",
-    "last_opened_file_path": "C:/Users/lucas/.m2/repository/com/thoughtworks/xstream/xstream/1.4.19/xstream-1.4.19.jar",
+    "last_opened_file_path": "C:/Users/lucas/Desktop/Programação/Java-Alura/Maven/Downloads/fj91-clean-architecture",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
@@ -89,6 +84,7 @@
       <workItem from="1657737846876" duration="247000" />
       <workItem from="1657738201582" duration="66000" />
       <workItem from="1657738290973" duration="2648000" />
+      <workItem from="1657794843158" duration="652000" />
     </task>
     <servers />
   </component>
