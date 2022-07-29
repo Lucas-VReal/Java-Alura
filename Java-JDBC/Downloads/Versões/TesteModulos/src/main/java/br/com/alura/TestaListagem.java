@@ -2,10 +2,7 @@ package br.com.alura;
 
 import br.com.alura.factory.ConnectionFactory;
 
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 
 public class TestaListagem {
     public static void main(String[] args) throws SQLException {
@@ -13,8 +10,8 @@ public class TestaListagem {
         ConnectionFactory factory = new ConnectionFactory();
         Connection conection = factory.recuperarConexao();
 
-        Statement stm = conection.createStatement();
-        boolean resultado = stm.execute("SELECT * FROM produto");
+        PreparedStatement stm = conection.prepareStatement("SELECT * FROM produto");
+        boolean resultado = stm.execute();
 
         ResultSet rst = stm.getResultSet();
         while(rst.next()) {

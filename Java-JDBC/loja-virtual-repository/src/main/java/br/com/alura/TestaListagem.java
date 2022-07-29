@@ -9,6 +9,7 @@ public class TestaListagem {
 
             ConectionFactory cc = new ConectionFactory();
             Connection con = cc.recuperarConexao();
+
             PreparedStatement stm = con.prepareStatement("select id, nome, descricao from produto");
             stm.execute ();
 

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8c538ca-4273-481c-b0cc-4dd582bb803c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../TesteModulo1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo1/bin/TestaConexao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo1/src/TestaConexao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/libraries/mysql_connector_java_8_0_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/src/main/java/br/com/alura/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/src/main/java/br/com/alura/TestaListagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/src/main/java/br/com/alura/TestaRemocao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/src/main/java/br/com/alura/TesteConection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/src/main/java/br/com/alura/TesteInsercao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/src/main/java/br/com/alura/factory/ConnectionFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/src/test/java/br/com/alura/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/target/classes/br/com/alura/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/target/classes/br/com/alura/TestaListagem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/target/classes/br/com/alura/TestaRemocao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/target/classes/br/com/alura/TesteConection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/target/classes/br/com/alura/TesteInsercao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo2/target/classes/br/com/alura/factory/ConnectionFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/libraries/c3p0_0_9_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/libraries/mchange_commons_java_0_2_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/libraries/mysql_connector_java_8_0_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/TesteModulo3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/bin/ConnectionFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/bin/TestaConexao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/bin/TestaInsercao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/bin/TestaListagem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/bin/TestaRemocao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/src/main/java/br/com/alura/jdbc/TestaConexao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/src/main/java/br/com/alura/jdbc/TestaInsercao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/src/main/java/br/com/alura/jdbc/TestaListagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/src/main/java/br/com/alura/jdbc/TestaRemocao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/src/main/java/br/com/alura/jdbc/factory/ConnectionFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/TesteModulo3-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/classes/br/com/alura/jdbc/TestaConexao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/classes/br/com/alura/jdbc/TestaInsercao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/classes/br/com/alura/jdbc/TestaListagem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/classes/br/com/alura/jdbc/TestaRemocao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/classes/br/com/alura/jdbc/factory/ConnectionFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../loja-virtual-repository/src/main/java/br/com/alura/TestaListagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../loja-virtual-repository/src/main/java/br/com/alura/TestaListagem.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CcVkJ69IvdzdTzyT0MhQSHU056" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "C:/Users/lucas/Desktop/Programação/Java-Alura/Java-JDBC/Downloads/Versões/TesteModulo2/src/main/java/br/com/alura",
+    "last_opened_file_path": "C:/Users/lucas/Desktop/Programação/Java-Alura/Java-JDBC/Downloads/Versões/TesteModulos",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TesteInsercao">
+    <configuration name="TestaListagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaListagem" />
+      <module name="TesteModulos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaRemocao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaRemocao" />
+      <module name="TesteModulos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteConection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.TesteConection" />
+      <module name="TesteModulo3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteInsercao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.TesteInsercao" />
+      <module name="TesteModulos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteInsercao" />
+        <item itemvalue="Application.TestaRemocao" />
+        <item itemvalue="Application.TestaListagem" />
+        <item itemvalue="Application.TesteConection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8c538ca-4273-481c-b0cc-4dd582bb803c" name="Changes" comment="" />
+      <created>1659102002132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659102002132</updated>
+      <workItem from="1659102003625" duration="199000" />
+      <workItem from="1659104100035" duration="8000" />
+      <workItem from="1659104970281" duration="4000" />
+      <workItem from="1659105035365" duration="147000" />
+      <workItem from="1659105488843" duration="45000" />
+      <workItem from="1659105545501" duration="140000" />
+      <workItem from="1659106229735" duration="187000" />
+      <workItem from="1659110718345" duration="324000" />
+      <workItem from="1659111059429" duration="375000" />
+      <workItem from="1659111467123" duration="65000" />
+      <workItem from="1659111549038" duration="109000" />
+      <workItem from="1659111943754" duration="167000" />
+      <workItem from="1659112145589" duration="366000" />
+      <workItem from="1659112540364" duration="114000" />
+      <workItem from="1659113804118" duration="4000" />
+      <workItem from="1659113855967" duration="424000" />
+      <workItem from="1659114327685" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
