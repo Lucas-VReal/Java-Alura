@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="11" jdk_type="JavaSDK">
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="Spring-5.2.3.RELEASE" value="project"/>
+		<level name="c3p0-0.9.5.4" value="project"/>
+		<level name="mchange-commons-java-0.2.16" value="project"/>
+		<level name="mysql-connector-java-8.0.17" value="project"/>
+	</levels>
+</component>

@@ -1,0 +1,5 @@
+br\com\alura\jdbc\TestaInsercao.class
+br\com\alura\jdbc\TestaConexao.class
+br\com\alura\jdbc\factory\ConnectionFactory.class
+br\com\alura\jdbc\TestaListagem.class
+br\com\alura\jdbc\TestaRemocao.class
