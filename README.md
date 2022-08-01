@@ -1,2 +1,2 @@
 # Java-Alura
-Studing Java JRE and JDK on Alura
+Studing Java JRE, JDK, JDBC, MySQL and Spring
