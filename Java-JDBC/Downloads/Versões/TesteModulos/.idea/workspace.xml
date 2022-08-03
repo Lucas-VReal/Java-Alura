@@ -5,73 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8c538ca-4273-481c-b0cc-4dd582bb803c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../TesteModulo1/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo1/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo1/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo1/bin/TestaConexao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo1/src/TestaConexao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/libraries/mysql_connector_java_8_0_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/src/main/java/br/com/alura/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/src/main/java/br/com/alura/TestaListagem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/src/main/java/br/com/alura/TestaRemocao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/src/main/java/br/com/alura/TesteConection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/src/main/java/br/com/alura/TesteInsercao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/src/main/java/br/com/alura/factory/ConnectionFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/src/test/java/br/com/alura/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/target/classes/br/com/alura/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/target/classes/br/com/alura/TestaListagem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/target/classes/br/com/alura/TestaRemocao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/target/classes/br/com/alura/TesteConection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/target/classes/br/com/alura/TesteInsercao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo2/target/classes/br/com/alura/factory/ConnectionFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/libraries/c3p0_0_9_5_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/libraries/mchange_commons_java_0_2_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/libraries/mysql_connector_java_8_0_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/TesteModulo3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/bin/ConnectionFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/bin/TestaConexao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/bin/TestaInsercao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/bin/TestaListagem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/bin/TestaRemocao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/src/main/java/br/com/alura/jdbc/TestaConexao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/src/main/java/br/com/alura/jdbc/TestaInsercao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/src/main/java/br/com/alura/jdbc/TestaListagem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/src/main/java/br/com/alura/jdbc/TestaRemocao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/src/main/java/br/com/alura/jdbc/factory/ConnectionFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/TesteModulo3-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/classes/br/com/alura/jdbc/TestaConexao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/classes/br/com/alura/jdbc/TestaInsercao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/classes/br/com/alura/jdbc/TestaListagem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/classes/br/com/alura/jdbc/TestaRemocao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/classes/br/com/alura/jdbc/factory/ConnectionFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TesteModulo3/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../loja-virtual-repository/src/main/java/br/com/alura/TestaListagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../loja-virtual-repository/src/main/java/br/com/alura/TestaListagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TesteModulo2-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/TesteModulo2-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-br.com.alura.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-br.com.alura.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/br.com.alura.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/br.com.alura.AppTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,19 +36,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_directory_selection": "C:/Users/lucas/Desktop/Programação/Java-Alura/Java-JDBC/Downloads/Versões/TesteModulo2/src/main/java/br/com/alura",
-    "last_opened_file_path": "C:/Users/lucas/Desktop/Programação/Java-Alura/Java-JDBC/Downloads/Versões/TesteModulos",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/lucas/Desktop/Programação/Java-Alura/Java-JDBC/Downloads/Versões/TesteModulo2/src/main/java/br/com/alura&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucas/Desktop/Programação/Java-Alura/Java-JDBC/Downloads/Versões/TesteModulos&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.TesteInsercao">
     <configuration name="TestaListagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaListagem" />
@@ -203,6 +140,8 @@
       <workItem from="1659113804118" duration="4000" />
       <workItem from="1659113855967" duration="424000" />
       <workItem from="1659114327685" duration="617000" />
+      <workItem from="1659114966979" duration="584000" />
+      <workItem from="1659354194854" duration="144000" />
     </task>
     <servers />
   </component>

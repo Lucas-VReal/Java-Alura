@@ -1,0 +1,7 @@
+br\com\alura\testes\CadastroDeProduto.class
+br\com\alura\model\Categoria.class
+br\com\alura\util\JPAUtil.class
+br\com\alura\dao\ProdutoDAO.class
+br\com\alura\App.class
+br\com\alura\dao\CategoriaDAO.class
+br\com\alura\model\Produto.class
