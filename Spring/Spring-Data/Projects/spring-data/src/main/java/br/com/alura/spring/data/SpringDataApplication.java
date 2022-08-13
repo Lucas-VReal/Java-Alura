@@ -1,7 +1,9 @@
 package br.com.alura.spring.data;
 
-import br.com.alura.spring.data.orm.Cargo;
-import br.com.alura.spring.data.service.CRUDCargoService;
+import br.com.alura.spring.data.service.CrudCargo;
+import br.com.alura.spring.data.service.CrudFuncionario;
+import br.com.alura.spring.data.service.CrudUnidade;
+import br.com.alura.spring.data.service.RelatorioService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,20 +13,56 @@ import java.util.Scanner;
 @SpringBootApplication
 public class SpringDataApplication implements CommandLineRunner {
 
-	private final CRUDCargoService service;
+	private final CrudCargo cargoService;
+	private final CrudFuncionario funcionarioService;
+	private final CrudUnidade unidadeService;
 
-	public SpringDataApplication(CRUDCargoService service) {
-		this.service = service;
+	private final RelatorioService relatorioService;
+
+	public SpringDataApplication(CrudCargo cargoService, CrudUnidade unidadeService, CrudFuncionario funcionarioService, RelatorioService relatorioService) {
+
+		this.cargoService = cargoService;
+		this.unidadeService = unidadeService;
+		this.funcionarioService = funcionarioService;
+		this.relatorioService = relatorioService;
 	}
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SpringDataApplication.class, args);
 	}
 
 
 	@Override
 	public void run(String... args) throws Exception {
-		service.inicial();
+
+		Boolean continuar = true;
+		Scanner scanner = new Scanner(System.in);
+
+		while(continuar) {
+
+
+			System.out.println("Qual açao voce deseja executar: ");
+			System.out.println("Digite 0 para sair");
+			System.out.println("Digite 1 para Funcionario");
+			System.out.println("Digite 2 para Cargo");
+			System.out.println("Digite 3 para Unidade");
+			System.out.println("Digite 4 para Relatorios");
+
+
+			int valor = scanner.nextInt();
+
+			switch (valor){
+
+				case 1: funcionarioService.inicial(scanner);break;
+				case 2: cargoService.inicial(scanner);break;
+				case 3: unidadeService.inicial(scanner);break;
+				case 4: relatorioService.inicial(scanner);break;
+				case 0: System.out.println("Obrigado por utilizar :)");continuar = false; break;
+				default: System.out.println("Opção invalida");break;
+
+			}
+		}
 
 	}
 }
