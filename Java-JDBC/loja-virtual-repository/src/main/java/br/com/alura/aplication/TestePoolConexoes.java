@@ -4,7 +4,7 @@ import br.com.alura.factory.ConectionFactory;
 
 import java.sql.SQLException;
 
-public class TestePoolConexões {
+public class TestePoolConexoes {
 
 
     public static void main(String[] args) {

@@ -1,0 +1,10 @@
+br\com\alura\aplication\TestaInsercaoComParametro.class
+br\com\alura\aplication\TestaInsercao.class
+br\com\alura\aplication\TesteDeConexao.class
+br\com\alura\factory\ConectionFactory.class
+br\com\alura\aplication\TestePoolConexoes.class
+br\com\alura\dao\ProdutoDAO.class
+br\com\alura\aplication\TestaListagem.class
+br\com\alura\aplication\TestaRemocao.class
+br\com\alura\modelo\Produto.class
+br\com\alura\aplication\TestaInsercaoEListagemProduto.class
