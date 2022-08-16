@@ -1,4 +1,6 @@
-package br.com.alura;
+package br.com.alura.aplication;
+
+import br.com.alura.factory.ConectionFactory;
 
 import java.sql.*;
 

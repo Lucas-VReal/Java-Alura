@@ -1,4 +1,4 @@
-package br.com.alura;
+package br.com.alura.factory;
 
 import com.mchange.v2.c3p0.ComboPooledDataSource;
 

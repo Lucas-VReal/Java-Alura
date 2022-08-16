@@ -1,6 +1,7 @@
-package br.com.alura;
+package br.com.alura.aplication;
 
 import br.com.alura.dao.ProdutoDAO;
+import br.com.alura.factory.ConectionFactory;
 import br.com.alura.modelo.Produto;
 
 

@@ -6,5 +6,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/c3p0-0.9.5.4"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mchange-commons-java-0.2.16"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-connector-java-8.0.17"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: c3p0:c3p0:0.9.1.2"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

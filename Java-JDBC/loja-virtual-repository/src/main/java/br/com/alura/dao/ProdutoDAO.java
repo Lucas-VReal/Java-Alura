@@ -1,6 +1,5 @@
 package br.com.alura.dao;
 
-import br.com.alura.ConectionFactory;
 import br.com.alura.modelo.Produto;
 
 import java.sql.*;
