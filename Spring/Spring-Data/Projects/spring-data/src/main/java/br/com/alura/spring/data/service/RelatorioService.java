@@ -3,7 +3,7 @@ package br.com.alura.spring.data.service;
 import br.com.alura.spring.data.orm.Funcionario;
 import br.com.alura.spring.data.orm.FuncionarioProjecao;
 import br.com.alura.spring.data.repository.FuncionarioRepository;
-import org.springframework.data.domain.Page;
+
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;

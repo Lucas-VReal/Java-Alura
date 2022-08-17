@@ -1,11 +1,8 @@
 package br.com.alura.spring.data.service;
 
-import br.com.alura.spring.data.SpringDataApplication;
+
 import br.com.alura.spring.data.orm.Cargo;
-import br.com.alura.spring.data.orm.Funcionario;
 import br.com.alura.spring.data.repository.CargoRepository;
-import br.com.alura.spring.data.repository.FuncionarioRepository;
-import br.com.alura.spring.data.repository.UnidadeRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.Scanner;

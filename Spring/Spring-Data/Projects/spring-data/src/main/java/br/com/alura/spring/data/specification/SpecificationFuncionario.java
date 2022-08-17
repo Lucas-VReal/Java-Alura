@@ -1,7 +1,6 @@
 package br.com.alura.spring.data.specification;
 
 import br.com.alura.spring.data.orm.Funcionario;
-import org.hibernate.criterion.CriteriaQuery;
 import org.springframework.data.jpa.domain.Specification;
 
 import java.time.LocalDate;
