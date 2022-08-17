@@ -8,7 +8,6 @@ import br.com.alura.util.JPAUtil;
 
 import javax.persistence.EntityManager;
 import java.math.BigDecimal;
-import java.util.List;
 
 public class CadastroDeProduto {
 

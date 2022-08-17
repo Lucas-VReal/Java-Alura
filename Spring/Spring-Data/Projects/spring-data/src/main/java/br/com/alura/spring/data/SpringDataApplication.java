@@ -1,9 +1,6 @@
 package br.com.alura.spring.data;
 
-import br.com.alura.spring.data.service.CrudCargo;
-import br.com.alura.spring.data.service.CrudFuncionario;
-import br.com.alura.spring.data.service.CrudUnidade;
-import br.com.alura.spring.data.service.RelatorioService;
+import br.com.alura.spring.data.service.*;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -19,12 +16,15 @@ public class SpringDataApplication implements CommandLineRunner {
 
 	private final RelatorioService relatorioService;
 
-	public SpringDataApplication(CrudCargo cargoService, CrudUnidade unidadeService, CrudFuncionario funcionarioService, RelatorioService relatorioService) {
+	private final RelatorioFuncionarioDinamico relatorioFuncionarioDinamico;
+
+	public SpringDataApplication(CrudCargo cargoService, CrudUnidade unidadeService, CrudFuncionario funcionarioService, RelatorioService relatorioService, RelatorioFuncionarioDinamico relatorioFuncionarioDinamico) {
 
 		this.cargoService = cargoService;
 		this.unidadeService = unidadeService;
 		this.funcionarioService = funcionarioService;
 		this.relatorioService = relatorioService;
+		this.relatorioFuncionarioDinamico = relatorioFuncionarioDinamico;
 	}
 
 	public static void main(String[] args) {
@@ -48,6 +48,7 @@ public class SpringDataApplication implements CommandLineRunner {
 			System.out.println("Digite 2 para Cargo");
 			System.out.println("Digite 3 para Unidade");
 			System.out.println("Digite 4 para Relatorios");
+			System.out.println("Digite 5 para Relatorio Dinamico de Funcionarios");
 
 
 			int valor = scanner.nextInt();
@@ -58,6 +59,7 @@ public class SpringDataApplication implements CommandLineRunner {
 				case 2: cargoService.inicial(scanner);break;
 				case 3: unidadeService.inicial(scanner);break;
 				case 4: relatorioService.inicial(scanner);break;
+				case 5: relatorioFuncionarioDinamico.inicial(scanner);break;
 				case 0: System.out.println("Obrigado por utilizar :)");continuar = false; break;
 				default: System.out.println("Opção invalida");break;
 
